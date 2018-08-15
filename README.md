@@ -56,3 +56,10 @@ https://developer.spotify.com/documentation/web-api/reference/playlists/get-play
 https://developer.spotify.com/documentation/web-api/reference/library/save-tracks-user/
 
 I think it would also be interesting to see what clustering the lyrics does (does the definition of difference genres change over the decades?)
+
+
+August 15th, 2018:
+Addendum:
+I think to reframe the scope of the project, I will be using songs from the billboards top 100 and my personal spotify library + playlists.
+
+Then when I'm done, I'm going to build a personal recommendation system
