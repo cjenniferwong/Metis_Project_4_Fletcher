@@ -47,3 +47,12 @@ Here is my plan today.
 I want to finish writing the function that I will use to scrape genius.com, and have that running in the background tonight while I sleep. That way I will have data to play with the next day.
 
 I also want to spend some time to create a game plan for myself so that I can start completing things in a more a systematic way.
+
+Update:
+Here are some links that I want to bookmart and re-visit if I have the time to do so. I want to put my own data into it.
+https://developer.spotify.com/documentation/web-api/reference/playlists/
+https://developer.spotify.com/documentation/web-api/reference/playlists/get-list-users-playlists/
+https://developer.spotify.com/documentation/web-api/reference/playlists/get-playlists-tracks/
+
+
+
