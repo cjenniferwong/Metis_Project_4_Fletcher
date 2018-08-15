@@ -55,4 +55,4 @@ https://developer.spotify.com/documentation/web-api/reference/playlists/get-list
 https://developer.spotify.com/documentation/web-api/reference/playlists/get-playlists-tracks/
 https://developer.spotify.com/documentation/web-api/reference/library/save-tracks-user/
 
-
+I think it would also be interesting to see what clustering the lyrics does (does the definition of difference genres change over the decades?)
