@@ -64,3 +64,17 @@ I think to reframe the scope of the project, I will be using songs from the bill
 
 Then when I'm done, I'm going to build a personal recommendation system. 
 Let's call this project: Music Jenn-erator heheheh
+
+
+I think if I have time, I also want to make an eigen-album cover for each genre.
+Here is an updated list of all the things that I want to do.
+
+1. Clustering (Unsupervised Learning)
+2. One Sentence Summarizer of the entire song and Topic Modeling
+3. One Sentence that represents the song (not the same as point 2)
+4. Recommendation System
+5. eigen-album cover for each genre.
+
+and if time permits, the classic:
+
+6. Have breakdowns and question why I'm doing Data Science, and whether I am even capable of becoming a Data Scientist
