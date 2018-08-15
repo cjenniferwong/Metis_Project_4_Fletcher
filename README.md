@@ -1,4 +1,4 @@
-# Project Summary for Project 4 Fletch
+# Project Summary for Project 4 Fletcher
 
 
 ## Project Design and Research
@@ -15,3 +15,35 @@ I have 3 areas that I am MOST passionate about (but not just 3):
 3. Dating
 
 I don't have a hard time finding questions in these domains to answer. I am very eager to get a chance to delve into these realms and extract nuggets of insight to present to my peers. However, how do I answer a valuable business question?
+
+
+August 14th, 2018--More things to add..
+I found some datasets on Kaggle that will help to supplement my project. At this point, I have decided to try to cluster songs into genres based on their lyrics. 
+
+Here are some links to the Kaggle datasets that I am interested in.
+
+https://www.kaggle.com/mousehead/songlyrics#songdata.csv 
+https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics. 
+https://www.kaggle.com/artimous/every-song-you-have-heard-almost#Lyrics2.csv
+
+This is also in addition to the list of songs that I still have from my Project 2 ('Drop it like it's Hot') that I scraped from the Billboards Top 100.
+
+I am also interested in trying to use the songs in my own personal Spotify library and throwing those songs in there. Sounds like fun.
+
+Here is what I hope to achieve with this project:
+
+Here is a summary of things I hope to achieve with this project:
+
+1. Clustering (Unsupervised Learning)
+2. One Sentence Summarizer of the entire song and Topic Modeling
+3. One Sentence that represents the song (not the same as point 2)
+4. Recommendation System
+
+and if time permits, the classic:
+
+5. Have breakdowns and question why I'm doing Data Science, and whether I am even capable of becoming a Data Scientist
+
+Here is my plan today.
+I want to finish writing the function that I will use to scrape genius.com, and have that running in the background tonight while I sleep. That way I will have data to play with the next day.
+
+I also want to spend some time to create a game plan for myself so that I can start completing things in a more a systematic way.
