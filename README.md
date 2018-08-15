@@ -62,4 +62,5 @@ August 15th, 2018:
 Addendum:
 I think to reframe the scope of the project, I will be using songs from the billboards top 100 and my personal spotify library + playlists.
 
-Then when I'm done, I'm going to build a personal recommendation system
+Then when I'm done, I'm going to build a personal recommendation system. 
+Let's call this project: Music Jenn-erator heheheh
