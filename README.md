@@ -101,4 +101,31 @@ Also, I want to speak to being aware of at which point in the pipeline do I save
 
 and if time permits, the classic:
 
-6. Have breakdowns and question why I'm doing Data Science, and whether I am even capable of becoming a Data Scientist
+6. Have breakdowns and question why I'm doing Data Science, and whether I am even capable of becoming a Data Scientist.
+
+
+
+
+August 17th, 2018:
+Some things that I learned from working on my project yesterday.
+1. There is a reasonw why everyone says commit early, and commit often.... I need to get over my commitment issues. Speaking of which, I should commit right now.
+
+2. Understanding the mathematical/computer science concepts that are happening when you call these functions and make these models are extremely important. Otherwise it is extremely difficult to troubleshoot your problem, because you don't understand what's going on. Taking the time to understand what is happening under the hood allows you to make better decisions about the methodology of which you are applying these steps, and help to make a better project.
+
+However, I do recognize that a huge motivation for this project is to just get your hands dirty. That means shifting through the problems slowly (at least for me it does) and just getting comfortable with being uncomfortable.
+
+
+That said, I was able to at least get some topic modeling done yesterday! Yay! Progress!
+Today, my goal is to get some clustering and a basic af recommendation system up and running. Then I will try a better approach of scraping for some more songs, and then also think of a way to scrape my spotify library.
+
+For Genius, I should try to utilize the search function LOL.... stop trying to brute force it.
+
+
+Also, 
+I want to set up my mongodb this weekend, and actually try to use it to retrieve the lyrics and stuff like that. That is also my goal this weekend. yay!
+If time permits, try some super awesome neural nets maybe idk.
+
+Also, Jennifer, think about how you're going to link genius, billboard, and spotify together. You should create a function that searches spotify and grabs the uri and then stores it. This is important to be able to grab the song's information beyond just having the lyrics.
+
+Maybe I should also consider using the spotify streaming charts to grab more songs. And then the additional datasets available on Kaggle. I should just use those too... LOL 
+
