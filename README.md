@@ -1,5 +1,28 @@
 # Project Summary for Project 4 Fletcher
 
+TLDR:
+Project design:
+Taking the unique songs which appeared in the Billboards Top 100 Weekly Charts, I scraped Genius and AZ Lyrics for lyrics for these songs so that I could do topic modeling for them. Then, I clustered and made a recommendation system.
+
+Tools:
+LDA + TFIDF
+DBSCAN
+TSNE
+Tableau
+
+Data:
+Genius (scraped)
+AZ Lyrics (scraped)
+Billboard (scraped)
+Spotify API
+	
+What you'd do differently next time:
+	There is so much that I would have done differently instead if I were to do this project again. I think the biggest sticking point was not being able to wrap my brain about what was happening when I would run the different functions. It’s one thing to be able to understand what is happening conceptually, but I found it difficult to follow how each step was applied in the context of Data Science and in terms of this project. Yes, in class we had a bunch of toy datasets, and it fulfilled its purpose of introducing us to different approaches and tools. I guess I needed to really sit down and try to understand things before I started to apply it. 
+	Although it is a good thing to try to work through the problems by yourself before asking for help, something that I really struggle with is asking for help. Touching back to the first paragraph, if I can clearly identify that I don't understand something, instead of sitting there for hours, and not making any progress, I should ask for help. Either from my peers, or from my instructors, because that is what they’re here for. 
+	Finally, I hope to be able to develop more confidence in myself and my abilities. I’m sure that I’m not the only one, but it definitely felt like I was the only one struggling with Imposter Syndrome. There were many times where I felt that I wasn’t good enough, and would compare myself to others, thinking that I would never be able to achieve something of the caliber that they were able to perform at. Although I know that there is a huge difference in experience level and technical ability and work that went into how others have gotten to where they are now, I can’t help but always to compare myself with them. 
+
+
+
 
 ## Project Design and Research
 Day 1 (August 11, 2018):
@@ -108,7 +131,7 @@ and if time permits, the classic:
 
 August 17th, 2018:
 Some things that I learned from working on my project yesterday.
-1. There is a reasonw why everyone says commit early, and commit often.... I need to get over my commitment issues. Speaking of which, I should commit right now.
+1. There is a reason why everyone says commit early, and commit often.... I need to get over my commitment issues. Speaking of which, I should commit right now.
 
 2. Understanding the mathematical/computer science concepts that are happening when you call these functions and make these models are extremely important. Otherwise it is extremely difficult to troubleshoot your problem, because you don't understand what's going on. Taking the time to understand what is happening under the hood allows you to make better decisions about the methodology of which you are applying these steps, and help to make a better project.
 
@@ -121,11 +144,11 @@ Today, my goal is to get some clustering and a basic af recommendation system up
 For Genius, I should try to utilize the search function LOL.... stop trying to brute force it.
 
 
-Also, 
-I want to set up my mongodb this weekend, and actually try to use it to retrieve the lyrics and stuff like that. That is also my goal this weekend. yay!
+Also, That is also my goal this weekend. yay!
 If time permits, try some super awesome neural nets maybe idk.
 
 Also, Jennifer, think about how you're going to link genius, billboard, and spotify together. You should create a function that searches spotify and grabs the uri and then stores it. This is important to be able to grab the song's information beyond just having the lyrics.
 
 Maybe I should also consider using the spotify streaming charts to grab more songs. And then the additional datasets available on Kaggle. I should just use those too... LOL 
+
 
